@@ -1,0 +1,11 @@
+{
+    "name": "thenodai/ch-cms-expose-routing-plugin",
+    "type": "package",
+    "authors": [
+        {
+            "name": "Pijus Pauliukonis",
+            "email": "pijus.pauliukonis@gmail.com"
+        }
+    ],
+    "require": {}
+}
